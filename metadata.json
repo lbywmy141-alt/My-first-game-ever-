@@ -1,0 +1,6 @@
+{
+  "name": "Dark Realm RPG",
+  "description": "2D Pixel Art Action RPG in a dark fantasy semi-open world with real-time combat, quests, dungeons, crafting, and bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
